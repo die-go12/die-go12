@@ -5,8 +5,6 @@ Soy un estudiante de Ingeniería Informática (7mo ciclo) apasionado por la lóg
 
 - 🔭 **Trabajando en:** Mejora de algoritmos y patrones de diseño en Java.
 - 🌱 **Aprendiendo:** Spring Boot, Microservicios y Docker.
-- 🎓 **Logro:** Beca 18 (Alto Rendimiento Académico).
-- 💼 **Busco:** Oportunidades como **Java Intern / Backend Trainee**.
 
 ---
 
