@@ -35,14 +35,6 @@ Experiencia práctica y herramientas que utilizo en mi día a día:
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=die-go12&show_icons=true&theme=tokyonight&hide_border=true" alt="Diego's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=die-go12&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
-</div>
-
----
-
 ### ⚡ Coding Mode: Java Edition
 <p align="center">
   <a href="https://github.com/die-go12">
