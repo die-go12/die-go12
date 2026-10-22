@@ -1,7 +1,7 @@
 # Hola, soy Diego Lopez 👋  
 ### 🚀 Backend Developer in Training | Java & Python Enthusiast
 
-Soy un estudiante de Ingeniería Informática (7mo ciclo) apasionado por la lógica de servidor, la arquitectura de software y la seguridad informática. Actualmente estoy **enfocado en el desarrollo con el ecosistema Java Enterprise**, aplicando una sólida base de **Clean Code** y **Programación Orientada a Objetos (POO)**.
+Soy un estudiante de Ingeniería Informática (8vo ciclo) apasionado por la lógica de servidor, la arquitectura de software y la seguridad informática. Actualmente estoy **enfocado en el desarrollo con el ecosistema Java Enterprise**, aplicando una sólida base de **Clean Code** y **Programación Orientada a Objetos (POO)**.
 
 - 🔭 **Trabajando en:** Mejora de algoritmos y patrones de diseño en Java.
 - 🌱 **Aprendiendo:** Spring Boot, Microservicios y Docker.
